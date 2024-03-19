@@ -62,4 +62,4 @@ if (2 > 10) {
   console.log("Llegamos al ultimo else");
 }
 
-document.write('Hola');
+document.write("Hola");
